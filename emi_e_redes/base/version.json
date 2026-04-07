@@ -1,1 +1,5 @@
-
+{
+  "version": "14.1.0",
+  "url": "https://raw.githubusercontent.com/SEU_USER/SEU_REPO/main/firmware.bin",
+  "sha256": "abc123..."
+}
